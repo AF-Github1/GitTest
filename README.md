@@ -1,4 +1,4 @@
 # GitTest
-nothing to see here go away
-INSIDE MACHINE TEST
+
+Test git Rep for my Git documentation rep
 
